@@ -1,2 +1,7 @@
 # SCOPE_ITB
-SCOPE Information Technology for Business Diploma
+
+## Year 1 Semester B
+
+### Current Technologies
+
+### Introduction to Computing
